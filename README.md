@@ -39,7 +39,7 @@
       you can see all pages that you have liked and unliked pages
 
   ## LightGroups.php
-      you can see all groups that you are joined and unjoined groups.
+      you can see all group that you are joined and unjoined groups.
 
   ## You can Add Group on "Light\Add Group\addpage.php"
   ## You can Add Page on " Light\Add Page\addgroup.php "
