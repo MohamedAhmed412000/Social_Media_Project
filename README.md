@@ -16,6 +16,7 @@
       Addposts "Light\Add Post\AddPost.php"
       Chat"Light\Chat\Chat.php"
       logout"Light\Login and register\logout.php"
+      Help "Light\Help\Help.php"
       switch to darkmode "\Dark\Home Page\HomePage.php"
       search on the members
    
