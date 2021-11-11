@@ -40,20 +40,3 @@
 
   ## LightGroups.php
       you can see all groups that you are joined and unjoined groups.
-
-  ## You can Add Group on "Light\Add Group\addpage.php"
-  ## You can Add Page on " Light\Add Page\addgroup.php "
-
-  ## You can enter a group on "Light\Add Group\generateGroup.php"
-  ## You can enter a page on "Light\Add Page\generatePage.php"
-
-  ## You can post on a group on "Light\Add Group\AddGroupPage.php"
-  ## You can post on a page on "Light\Add Page\AddPostPage.php"
-
-
-
-
-
-
-
-
