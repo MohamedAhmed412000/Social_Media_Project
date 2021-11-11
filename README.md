@@ -1,4 +1,4 @@
-# First-Team-Project
+# Social Media Project (Communicazione)
 
   ## steps to run the program
         Add to your sql server files db.php "site before final/Light" and db.sql "site before final\Light"
